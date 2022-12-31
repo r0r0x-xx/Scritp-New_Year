@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script for New Year - r0r0x 2020
+# Script for New Year - updated - r0r0x 2022
 
 # Config
 name='I wish you a Happy New Year - By r0r0x'
